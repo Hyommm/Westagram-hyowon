@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "userName": "39saku_chan",
+    "userImg": "./images/junghyowon/sakuraprofile.png",
+    "feedImg": "./images/junghyowon/sakura.png",
+    "likeNum": 342312,
+    "feedText": "봄인가 여름인가 💐🌳",
+    "feedTime": "12분 전"
+  },
+
+  {
+    "id": 2,
+    "userName": "yena.jigumina",
+    "userImg": "./images/junghyowon/yena-1.png",
+    "feedImg": "./images/junghyowon/yena-2.png",
+    "likeNum": 534333,
+    "feedText": "무지개 심봤다🌈",
+    "feedTime": "1시간 전"
+  },
+
+  {
+    "id": 3,
+    "userName": "nakedbibi",
+    "userImg": "./images/junghyowon/bibi-2.png",
+    "feedImg": "./images/junghyowon/bibi-1.png",
+    "likeNum": 384932,
+    "feedText": "비비 이즈 커밍 SOON",
+    "feedTime": "2일 전"
+  },
+
+  {
+    "id": 4,
+    "userName": "k_a_z_u_h_a__",
+    "userImg": "./images/junghyowon/zuha-1.png",
+    "feedImg": "./images/junghyowon/zuha-2.png",
+    "likeNum": 131221,
+    "feedText": "Find the good parts💜",
+    "feedTime": "5일 전"
+  }
+]
